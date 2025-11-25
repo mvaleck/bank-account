@@ -1,0 +1,17 @@
+.banner {
+    display: flex;
+    gap: 20px;
+    width: 1000px;
+    padding: 30px 80px;
+    margin: 0 auto;
+    justify-content: space-between;
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #ffffff, #8de3e0, #8de3e0);
+}
+
+.line {
+    height: 2px;
+    width: 100%;
+    background-color: #000;
+    margin: 10px 0;
+}
